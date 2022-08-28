@@ -1,0 +1,1 @@
+import StaticImageService from "./StaticImageService";
