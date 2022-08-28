@@ -61,5 +61,3 @@ buck-out/
 # Ruby / CocoaPods
 /ios/Pods/
 /vendor/bundle/
-실행전 꼭 보세용.txt
-package.json
